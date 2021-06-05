@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @weiyuexin
-- 👀 I’m interested in computer games
+- 👀 I’m interested in Java & PHP & Python
 - 🌱 I’m currently learning cs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on study
+- 📫 How to reach me email: 3022422894@qq.com
 
 <!---
 weiyuexin/weiyuexin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
