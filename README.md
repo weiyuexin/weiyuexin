@@ -2,7 +2,6 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/weiyuexin/"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/weiyuexin/weiyuexin/graphs/contributors"><img src="https://img.shields.io/github/contributors/weiyuexin/weiyuexin?color=blue"></a>
     <a href="https://github.com/weiyuexin/weiyuexin/stargazers"><img src="https://img.shields.io/github/stars/weiyuexin/weiyuexin.svg?logo=github"></a>
     <a href="https://github.com/weiyuexin/weiyuexin/network/members"><img src="https://img.shields.io/github/forks/weiyuexin/weiyuexin.svg?color=blue&logo=github"></a>
