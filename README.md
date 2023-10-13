@@ -38,10 +38,5 @@
 ### 📈 GitHub Activity Graph:                                                                                                             
  ![weiyuexin's github stats](https://github-readme-stats.vercel.app/api?username=weiyuexin&show_icons=true&theme=radical&include_all_commits=true)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyuexin&hide=javascript,html,css,scss,less&theme=radical&layout=compact) 
 
-#### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/weiyuexin/count.svg">  
-</p>
 
-![](assets/Bottom_down.svg)
