@@ -36,7 +36,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:                                                                                                             
- ![weiyuexin's github stats](https://github-readme-stats.vercel.app/api?username=weiyuexin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyuexin&hide=javascript,html,css,scss,less&theme=radical&layout=compact) 
+ ![weiyuexin's github stats](https://github-readme-stats.vercel.app/api?username=weiyuexin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyuexin&hide=javascript,html,css,scss,less&theme=radical&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite) 
 
 
 
